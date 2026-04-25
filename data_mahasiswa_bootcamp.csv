@@ -1,0 +1,206 @@
+NIM,Nama,Jenis_Kelamin,Usia,Asal_Kota,Jurusan,IPK_Semester1,IPK_Semester2,Kehadiran_Persen,Nilai_Matematika,Nilai_Pemrograman,Nilai_Basis_Data,Beasiswa,Organisasi,Jam_Belajar_Per_Hari,Lulus_Tepat_Waktu
+202100001,Mahasiswa_1,Laki-laki,21,Jakarta,Manajemen,2.2,1.88,72.5,46.0,47,48,Ya,Tidak Aktif,4.5,Tidak
+202100002,Mahasiswa_2,Perempuan,20,Bandung,Teknik Elektro,1.94,2.94,92.4,68.0,89,76,Tidak,Aktif,,Ya
+202100003,Mahasiswa_3,Perempuan,18,Medan,Akuntansi,1.72,3.02,83.9,50.0,67,59,Ya,Aktif,7.3,Ya
+202100004,Mahasiswa_4,Perempuan,21,Medan,Manajemen,1.8,2.56,88.4,150.0,59,65,Tidak,Aktif,1.0,Ya
+202100005,Mahasiswa_5,Laki-laki,23,Jakarta,Teknik Elektro,2.65,3.34,79.5,45.0,86,68,Tidak,Aktif,6.6,Ya
+202100006,Mahasiswa_6,Laki-laki,21,Semarang,Sistem Informasi,2.02,3.84,81.5,86.0,98,40,Ya,Aktif,4.2,Ya
+202100007,Mahasiswa_7,Laki-laki,23,Semarang,Sistem Informasi,2.41,3.81,91.0,54.0,46,94,Tidak,Tidak Aktif,8.1,Ya
+202100008,Mahasiswa_8,Perempuan,20,Jakarta,Teknik Elektro,2.76,2.63,55.0,71.0,50,74,Ya,Aktif,25.0,Tidak
+202100009,Mahasiswa_9,Perempuan,23,Semarang,Teknik Elektro,3.23,1.78,69.4,90.0,59,45,Ya,Tidak Aktif,,Ya
+202100010,Mahasiswa_10,Perempuan,18,Semarang,Akuntansi,1.6,3.96,,50.0,55,76,Tidak,Tidak Aktif,5.3,Ya
+202100011,Mahasiswa_11,Laki-laki,20,Medan,Akuntansi,3.5,3.6,99.3,,43,92,Tidak,Tidak Aktif,6.8,Ya
+202100012,Mahasiswa_12,Perempuan,18,Semarang,Sistem Informasi,3.07,1.81,,62.0,45,98,Tidak,Tidak Aktif,1.6,Ya
+202100013,Mahasiswa_13,Perempuan,22,Surabaya,Manajemen,1.7,3.8,110.0,65.0,97,44,Tidak,Aktif,6.2,Ya
+202100014,Mahasiswa_14,Laki-laki,19,Yogyakarta,Sistem Informasi,3.68,,,73.0,61,72,Tidak,Tidak Aktif,6.1,Ya
+202100015,Mahasiswa_15,Laki-laki,23,Bandung,Manajemen,3.8,2.8,95.5,85.0,65,88,Tidak,Tidak Aktif,,Ya
+202100016,Mahasiswa_16,Laki-laki,19,Surabaya,Manajemen,1.65,2.98,50.8,,42,90,Ya,Tidak Aktif,6.4,Tidak
+202100017,Mahasiswa_17,Laki-laki,19,Semarang,Akuntansi,2.19,2.5,74.1,68.0,80,53,Tidak,Aktif,7.1,Ya
+202100018,Mahasiswa_18,Laki-laki,23,Medan,Teknik Informatika,3.52,1.64,94.9,43.0,99,51,Ya,Tidak Aktif,8.2,Ya
+202100019,Mahasiswa_19,Laki-laki,20,Jakarta,Teknik Informatika,3.37,,42.0,56.0,81,81,Ya,Tidak Aktif,3.4,Ya
+202100020,Mahasiswa_20,Laki-laki,22,Semarang,Teknik Elektro,1.96,3.51,81.8,74.0,53,59,Tidak,Aktif,8.4,Ya
+202100021,Mahasiswa_21,Perempuan,18,Medan,Akuntansi,2.02,1.51,57.8,52.0,50,92,Ya,Aktif,5.5,Tidak
+202100022,Mahasiswa_22,Laki-laki,21,Yogyakarta,Manajemen,2.43,2.33,95.5,80.0,57,89,Tidak,Tidak Aktif,,Ya
+202100023,Mahasiswa_23,Laki-laki,18,Semarang,Teknik Informatika,2.71,2.5,98.3,78.0,93,63,Tidak,Tidak Aktif,1.5,Ya
+202100024,Mahasiswa_24,Laki-laki,21,Jakarta,Manajemen,3.05,2.84,,54.0,51,98,Ya,Tidak Aktif,4.0,Ya
+202100025,Mahasiswa_25,Laki-laki,18,Medan,Teknik Informatika,2.42,3.8,68.5,94.0,62,82,Tidak,Tidak Aktif,8.1,Ya
+202100026,Mahasiswa_26,Perempuan,23,Medan,Teknik Informatika,2.66,2.37,91.7,68.0,51,73,Ya,Aktif,7.4,Ya
+202100027,Mahasiswa_27,Laki-laki,22,Medan,Teknik Informatika,3.37,2.37,90.7,68.0,52,64,Tidak,Tidak Aktif,8.1,Ya
+202100028,Mahasiswa_28,Laki-laki,21,Yogyakarta,Akuntansi,1.59,3.34,59.1,50.0,64,89,Tidak,Tidak Aktif,5.7,Tidak
+202100029,Mahasiswa_29,Perempuan,24,Semarang,Sistem Informasi,2.13,2.63,89.7,,84,68,Tidak,Aktif,5.0,Ya
+202100030,Mahasiswa_30,Laki-laki,20,Yogyakarta,Manajemen,3.28,2.06,42.2,71.0,90,96,Tidak,Aktif,2.3,Tidak
+202100031,Mahasiswa_31,Perempuan,18,Bandung,Akuntansi,3.74,2.63,75.8,41.0,97,78,Ya,Tidak Aktif,4.0,Ya
+202100032,Mahasiswa_32,Laki-laki,18,Bandung,Akuntansi,2.78,1.85,,,58,70,Tidak,Aktif,4.9,Tidak
+202100033,Mahasiswa_33,Laki-laki,21,Semarang,Akuntansi,2.83,1.94,47.2,53.0,94,95,Tidak,Tidak Aktif,1.8,Tidak
+202100034,Mahasiswa_34,Perempuan,20,Yogyakarta,Akuntansi,1.77,2.75,44.6,59.0,85,86,Tidak,Aktif,3.0,Tidak
+202100035,Mahasiswa_35,Perempuan,20,Jakarta,Akuntansi,2.62,2.55,81.8,61.0,75,82,Tidak,Aktif,6.4,Ya
+202100036,Mahasiswa_36,Perempuan,23,Medan,Teknik Elektro,2.83,3.79,60.4,50.0,84,89,Tidak,Aktif,7.6,Ya
+202100037,Mahasiswa_37,Laki-laki,24,Medan,Manajemen,2.11,2.41,83.5,,47,62,Ya,Tidak Aktif,10.0,Ya
+202100038,Mahasiswa_38,Laki-laki,23,Semarang,Akuntansi,2.17,2.95,43.9,42.0,68,83,Ya,Tidak Aktif,9.4,Tidak
+202100039,Mahasiswa_39,Perempuan,23,Bandung,Manajemen,2.44,3.08,58.9,56.0,94,77,Tidak,Tidak Aktif,6.8,Ya
+202100040,Mahasiswa_40,Laki-laki,23,Bandung,Teknik Elektro,1.55,1.53,,83.0,92,59,Tidak,Tidak Aktif,4.8,Tidak
+202100041,Mahasiswa_41,Laki-laki,23,Medan,Teknik Elektro,2.31,3.16,87.4,,94,62,Tidak,Aktif,6.7,Ya
+202100042,Mahasiswa_42,Laki-laki,23,Semarang,Manajemen,2.03,1.95,59.1,67.0,71,84,Tidak,Tidak Aktif,,Tidak
+202100043,Mahasiswa_43,Laki-laki,22,Yogyakarta,Teknik Informatika,2.32,3.9,,68.0,90,91,Tidak,Tidak Aktif,2.1,Ya
+202100044,Mahasiswa_44,Perempuan,20,Bandung,Sistem Informasi,1.8,1.87,93.2,60.0,83,55,Ya,Tidak Aktif,,Ya
+202100045,Mahasiswa_45,Laki-laki,23,Yogyakarta,Teknik Informatika,3.73,2.54,77.0,,57,89,Tidak,Aktif,8.6,Ya
+202100046,Mahasiswa_46,Perempuan,20,Bandung,Teknik Informatika,2.98,1.71,54.0,,45,81,Ya,Tidak Aktif,4.5,Tidak
+202100047,Mahasiswa_47,Laki-laki,20,Bandung,Teknik Informatika,3.2,3.99,41.5,76.0,57,99,Tidak,Aktif,6.1,Ya
+202100048,Mahasiswa_48,Laki-laki,19,Surabaya,Akuntansi,3.47,2.76,,98.0,58,94,Tidak,Aktif,6.3,Ya
+202100049,Mahasiswa_49,Laki-laki,22,Bandung,Teknik Elektro,2.75,2.99,41.3,59.0,61,47,Tidak,Tidak Aktif,2.7,Tidak
+202100050,Mahasiswa_50,Laki-laki,23,Jakarta,Teknik Informatika,1.72,1.67,92.5,45.0,76,89,Ya,Tidak Aktif,4.3,Ya
+202100051,Mahasiswa_51,Perempuan,18,Semarang,Teknik Elektro,2.84,3.37,71.7,58.0,71,60,Tidak,Aktif,4.0,Ya
+202100052,Mahasiswa_52,Perempuan,21,Semarang,Manajemen,2.97,2.02,96.3,96.0,95,40,Tidak,Aktif,1.2,Ya
+202100053,Mahasiswa_53,Perempuan,24,Yogyakarta,Sistem Informasi,3.36,3.75,87.9,44.0,80,94,Tidak,Tidak Aktif,,Ya
+202100054,Mahasiswa_54,Perempuan,18,Bandung,Manajemen,2.58,,99.9,42.0,98,47,Ya,Tidak Aktif,8.5,Ya
+202100055,Mahasiswa_55,Perempuan,22,Jakarta,Manajemen,1.82,1.98,61.0,98.0,42,68,Tidak,Tidak Aktif,3.5,Tidak
+202100056,Mahasiswa_56,Perempuan,21,Yogyakarta,Akuntansi,2.21,1.59,86.0,40.0,67,71,Tidak,Tidak Aktif,5.7,Tidak
+202100057,Mahasiswa_57,Laki-laki,22,Surabaya,Sistem Informasi,2.41,2.68,64.1,97.0,49,77,Ya,Tidak Aktif,3.7,Ya
+202100058,Mahasiswa_58,Laki-laki,20,Yogyakarta,Manajemen,3.11,2.91,68.8,99.0,90,44,Ya,Aktif,9.5,Ya
+202100059,Mahasiswa_59,Laki-laki,21,Yogyakarta,Manajemen,2.93,1.66,77.7,77.0,74,86,Ya,Tidak Aktif,,Ya
+202100060,Mahasiswa_60,Laki-laki,20,Bandung,Sistem Informasi,2.39,3.44,92.4,54.0,68,61,Tidak,Tidak Aktif,4.9,Ya
+202100061,Mahasiswa_61,Laki-laki,18,Surabaya,Sistem Informasi,3.97,2.63,99.0,73.0,93,86,Tidak,Aktif,8.9,Ya
+202100062,Mahasiswa_62,Laki-laki,18,Yogyakarta,Manajemen,3.01,2.81,86.1,74.0,54,73,Tidak,Tidak Aktif,8.6,Ya
+202100063,Mahasiswa_63,Perempuan,21,Jakarta,Sistem Informasi,2.09,2.6,65.1,88.0,72,40,Ya,Aktif,,Tidak
+202100064,Mahasiswa_64,Laki-laki,21,Jakarta,Manajemen,1.75,2.5,65.3,64.0,46,94,Tidak,Tidak Aktif,8.2,Tidak
+202100065,Mahasiswa_65,Laki-laki,23,Semarang,Manajemen,1.88,,84.3,63.0,51,94,Tidak,Tidak Aktif,5.1,Ya
+202100066,Mahasiswa_66,Laki-laki,22,Surabaya,Akuntansi,2.11,1.89,54.3,51.0,88,65,Tidak,Tidak Aktif,5.3,Tidak
+202100067,Mahasiswa_67,Laki-laki,23,Surabaya,Teknik Informatika,1.9,1.95,46.6,57.0,69,82,Tidak,Tidak Aktif,2.2,Tidak
+202100068,Mahasiswa_68,Perempuan,22,Semarang,Manajemen,1.97,3.65,61.3,54.0,60,49,Ya,Tidak Aktif,1.7,Tidak
+202100069,Mahasiswa_69,Laki-laki,23,Yogyakarta,Teknik Elektro,2.21,3.87,57.2,,70,69,Tidak,Tidak Aktif,7.6,Ya
+202100070,Mahasiswa_70,Perempuan,20,Surabaya,Teknik Informatika,1.93,2.43,57.8,55.0,97,89,Tidak,Tidak Aktif,5.5,Tidak
+202100071,Mahasiswa_71,Perempuan,21,Jakarta,Teknik Informatika,3.74,2.18,54.0,66.0,63,57,Tidak,Aktif,4.9,Tidak
+202100072,Mahasiswa_72,Laki-laki,18,Jakarta,Teknik Informatika,1.7,3.11,42.5,47.0,59,56,Tidak,Tidak Aktif,7.6,Tidak
+202100073,Mahasiswa_73,Laki-laki,22,Bandung,Akuntansi,2.81,2.52,41.1,99.0,76,65,Tidak,Aktif,7.9,Tidak
+202100074,Mahasiswa_74,Perempuan,22,Surabaya,Manajemen,2.53,1.56,99.3,85.0,43,47,Tidak,Tidak Aktif,2.4,Ya
+202100075,Mahasiswa_75,Perempuan,18,Yogyakarta,Akuntansi,3.96,1.89,65.7,64.0,67,86,Ya,Tidak Aktif,6.5,Ya
+202100076,Mahasiswa_76,Perempuan,23,Semarang,Manajemen,1.78,3.29,63.1,56.0,83,79,Ya,Tidak Aktif,2.2,Ya
+202100077,Mahasiswa_77,Perempuan,22,Semarang,Akuntansi,2.49,3.15,80.8,68.0,59,88,Tidak,Aktif,7.8,Ya
+202100078,Mahasiswa_78,Laki-laki,24,Yogyakarta,Akuntansi,3.92,1.57,53.1,92.0,99,51,Tidak,Aktif,6.9,Ya
+202100079,Mahasiswa_79,Laki-laki,20,Medan,Teknik Elektro,3.66,2.05,97.0,47.0,63,66,Ya,Tidak Aktif,,Ya
+202100080,Mahasiswa_80,Laki-laki,21,Bandung,Akuntansi,3.54,2.08,,54.0,89,47,Ya,Aktif,1.6,Ya
+202100081,Mahasiswa_81,Perempuan,18,Semarang,Sistem Informasi,2.14,3.18,45.4,66.0,88,64,Ya,Aktif,1.5,Tidak
+202100082,Mahasiswa_82,Perempuan,21,Surabaya,Teknik Elektro,1.93,1.55,65.1,85.0,90,85,Tidak,Aktif,3.5,Tidak
+202100083,Mahasiswa_83,Laki-laki,24,Bandung,Akuntansi,3.17,1.76,92.7,89.0,71,43,Ya,Tidak Aktif,3.4,Ya
+202100084,Mahasiswa_84,Laki-laki,22,Surabaya,Teknik Informatika,3.82,3.5,,,80,72,Tidak,Tidak Aktif,3.2,Ya
+202100085,Mahasiswa_85,Laki-laki,22,Jakarta,Sistem Informasi,2.89,1.95,68.0,46.0,75,40,Ya,Aktif,9.2,Tidak
+202100086,Mahasiswa_86,Laki-laki,24,Bandung,Sistem Informasi,2.93,,76.8,42.0,97,58,Tidak,Aktif,3.2,Ya
+202100087,Mahasiswa_87,Perempuan,18,Semarang,Sistem Informasi,2.2,2.1,50.0,,92,70,Ya,Aktif,3.4,Tidak
+202100088,Mahasiswa_88,Perempuan,20,Bandung,Teknik Elektro,3.42,1.75,99.5,83.0,73,55,Tidak,Tidak Aktif,7.8,Ya
+202100089,Mahasiswa_89,Perempuan,19,Bandung,Akuntansi,1.97,2.11,53.9,,75,53,Ya,Tidak Aktif,5.0,Tidak
+202100090,Mahasiswa_90,Laki-laki,18,Bandung,Akuntansi,2.31,3.31,96.6,63.0,41,92,Tidak,Aktif,8.0,Ya
+202100091,Mahasiswa_91,Laki-laki,19,Medan,Teknik Informatika,2.56,3.64,79.0,99.0,54,87,Ya,Aktif,1.6,Ya
+202100092,Mahasiswa_92,Perempuan,24,Bandung,Teknik Informatika,2.77,3.58,76.5,,73,44,Tidak,Aktif,5.4,Ya
+202100093,Mahasiswa_93,Perempuan,23,Surabaya,Sistem Informasi,2.11,2.49,70.8,42.0,75,80,Tidak,Tidak Aktif,1.3,Tidak
+202100094,Mahasiswa_94,Perempuan,19,Jakarta,Teknik Informatika,1.79,3.17,53.8,,45,65,Tidak,Tidak Aktif,1.6,Tidak
+202100095,Mahasiswa_95,Perempuan,20,Yogyakarta,Teknik Elektro,3.03,,50.6,85.0,78,67,Tidak,Aktif,9.2,Ya
+202100096,Mahasiswa_96,Laki-laki,23,Bandung,Akuntansi,2.22,2.23,,54.0,81,41,Tidak,Aktif,2.3,Tidak
+202100097,Mahasiswa_97,Laki-laki,19,Semarang,Sistem Informasi,2.95,3.74,51.2,64.0,90,89,Tidak,Aktif,5.8,Ya
+202100098,Mahasiswa_98,Laki-laki,24,Bandung,Teknik Informatika,1.89,1.53,86.8,69.0,90,45,Tidak,Tidak Aktif,4.7,Tidak
+202100099,Mahasiswa_99,Laki-laki,23,Semarang,Teknik Elektro,2.7,1.71,61.0,53.0,97,48,Tidak,Aktif,4.1,Tidak
+202100100,Mahasiswa_100,Laki-laki,24,Surabaya,Teknik Elektro,2.83,2.02,,46.0,93,72,Tidak,Tidak Aktif,,Ya
+202100101,Mahasiswa_101,Laki-laki,19,Semarang,Teknik Informatika,1.63,1.57,,56.0,51,80,Tidak,Tidak Aktif,,Tidak
+202100102,Mahasiswa_102,Perempuan,24,Yogyakarta,Akuntansi,2.34,1.95,93.0,83.0,42,64,Tidak,Aktif,7.0,Ya
+202100103,Mahasiswa_103,Laki-laki,20,Jakarta,Teknik Informatika,1.84,2.96,95.7,59.0,84,87,Tidak,Aktif,9.7,Ya
+202100104,Mahasiswa_104,Laki-laki,19,Semarang,Sistem Informasi,1.66,2.55,,75.0,57,52,Ya,Aktif,6.0,Tidak
+202100105,Mahasiswa_105,Perempuan,19,Semarang,Teknik Informatika,3.97,3.73,50.4,48.0,79,48,Tidak,Tidak Aktif,9.4,Ya
+202100106,Mahasiswa_106,Laki-laki,19,Jakarta,Teknik Elektro,2.31,3.54,63.8,77.0,60,92,Tidak,Tidak Aktif,1.5,Ya
+202100107,Mahasiswa_107,Laki-laki,18,Yogyakarta,Teknik Informatika,3.52,,85.5,87.0,54,52,Ya,Tidak Aktif,4.8,Ya
+202100108,Mahasiswa_108,Perempuan,18,Bandung,Akuntansi,2.14,2.15,81.8,96.0,72,70,Tidak,Tidak Aktif,3.3,Ya
+202100109,Mahasiswa_109,Laki-laki,18,Semarang,Manajemen,3.2,2.45,49.2,99.0,74,80,Ya,Aktif,7.6,Ya
+202100110,Mahasiswa_110,Laki-laki,20,Jakarta,Teknik Informatika,3.4,2.98,88.9,61.0,65,50,Tidak,Tidak Aktif,9.8,Ya
+202100111,Mahasiswa_111,Laki-laki,23,Surabaya,Akuntansi,2.99,2.17,53.5,93.0,47,43,Ya,Tidak Aktif,3.3,Tidak
+202100112,Mahasiswa_112,Laki-laki,24,Jakarta,Akuntansi,2.68,3.06,53.4,92.0,75,73,Tidak,Aktif,,Ya
+202100113,Mahasiswa_113,Perempuan,22,Surabaya,Teknik Elektro,2.53,2.52,72.2,92.0,87,77,Tidak,Tidak Aktif,2.8,Ya
+202100114,Mahasiswa_114,Perempuan,19,Yogyakarta,Akuntansi,2.37,,75.6,41.0,69,85,Tidak,Tidak Aktif,6.1,Ya
+202100115,Mahasiswa_115,Perempuan,24,Bandung,Akuntansi,3.82,2.59,74.8,,62,43,Tidak,Tidak Aktif,5.2,Ya
+202100116,Mahasiswa_116,Perempuan,19,Jakarta,Akuntansi,3.58,2.24,45.5,47.0,81,77,Tidak,Tidak Aktif,9.7,Tidak
+202100117,Mahasiswa_117,Perempuan,20,Medan,Akuntansi,3.91,3.87,92.6,50.0,83,58,Tidak,Tidak Aktif,6.5,Ya
+202100118,Mahasiswa_118,Laki-laki,19,Semarang,Sistem Informasi,1.81,3.41,55.9,52.0,53,45,Ya,Tidak Aktif,4.1,Tidak
+202100119,Mahasiswa_119,Perempuan,18,Yogyakarta,Sistem Informasi,3.33,1.85,47.8,56.0,53,73,Tidak,Aktif,2.0,Tidak
+202100120,Mahasiswa_120,Laki-laki,22,Jakarta,Teknik Elektro,3.85,3.67,93.3,47.0,41,57,Ya,Aktif,,Ya
+202100121,Mahasiswa_121,Perempuan,21,Semarang,Teknik Informatika,1.95,,97.3,60.0,94,52,Tidak,Tidak Aktif,3.0,Ya
+202100122,Mahasiswa_122,Perempuan,19,Jakarta,Akuntansi,1.67,3.74,91.7,57.0,76,80,Tidak,Aktif,3.3,Ya
+202100123,Mahasiswa_123,Laki-laki,24,Surabaya,Teknik Informatika,3.35,3.5,88.6,69.0,44,62,Tidak,Aktif,8.7,Ya
+202100124,Mahasiswa_124,Laki-laki,18,Jakarta,Teknik Informatika,2.94,,79.3,57.0,77,58,Tidak,Tidak Aktif,6.1,Ya
+202100125,Mahasiswa_125,Laki-laki,21,Medan,Teknik Elektro,3.6,1.56,73.1,85.0,84,84,Tidak,Tidak Aktif,5.7,Ya
+202100126,Mahasiswa_126,Laki-laki,22,Jakarta,Akuntansi,1.85,2.17,45.2,86.0,80,50,Tidak,Tidak Aktif,2.0,Tidak
+202100127,Mahasiswa_127,Perempuan,21,Jakarta,Akuntansi,3.49,2.85,64.5,,93,40,Ya,Tidak Aktif,8.7,Ya
+202100128,Mahasiswa_128,Perempuan,18,Medan,Manajemen,2.0,3.08,62.4,77.0,99,63,Tidak,Aktif,7.5,Ya
+202100129,Mahasiswa_129,Laki-laki,23,Yogyakarta,Teknik Informatika,1.91,,55.6,71.0,86,93,Ya,Aktif,1.6,Tidak
+202100130,Mahasiswa_130,Laki-laki,23,Jakarta,Teknik Informatika,1.91,1.85,83.4,50.0,53,46,Tidak,Aktif,7.4,Tidak
+202100131,Mahasiswa_131,Laki-laki,21,Medan,Sistem Informasi,3.54,3.59,,84.0,95,64,Tidak,Tidak Aktif,5.9,Ya
+202100132,Mahasiswa_132,Laki-laki,20,Semarang,Manajemen,3.16,3.96,44.9,64.0,78,60,Tidak,Tidak Aktif,1.7,Ya
+202100133,Mahasiswa_133,Laki-laki,24,Surabaya,Sistem Informasi,2.81,2.81,53.2,72.0,64,54,Ya,Aktif,5.1,Tidak
+202100134,Mahasiswa_134,Laki-laki,24,Surabaya,Sistem Informasi,2.4,1.93,81.0,99.0,59,40,Tidak,Tidak Aktif,5.4,Ya
+202100135,Mahasiswa_135,Perempuan,21,Jakarta,Sistem Informasi,3.69,2.18,44.6,77.0,41,51,Ya,Tidak Aktif,2.5,Tidak
+202100136,Mahasiswa_136,Laki-laki,19,Yogyakarta,Teknik Elektro,2.48,1.55,91.1,,78,97,Tidak,Tidak Aktif,9.5,Ya
+202100137,Mahasiswa_137,Laki-laki,19,Yogyakarta,Teknik Elektro,3.54,3.79,69.7,47.0,45,46,Ya,Tidak Aktif,8.6,Ya
+202100138,Mahasiswa_138,Perempuan,24,Semarang,Sistem Informasi,2.6,1.79,68.8,50.0,56,54,Tidak,Aktif,7.0,Tidak
+202100139,Mahasiswa_139,Laki-laki,24,Jakarta,Manajemen,2.44,2.94,75.5,61.0,98,60,Tidak,Tidak Aktif,5.2,Ya
+202100140,Mahasiswa_140,Perempuan,23,Surabaya,Teknik Informatika,2.66,2.19,89.5,90.0,64,58,Tidak,Tidak Aktif,,Ya
+202100141,Mahasiswa_141,Perempuan,20,Yogyakarta,Manajemen,2.25,2.89,60.9,63.0,96,99,Tidak,Tidak Aktif,,Ya
+202100142,Mahasiswa_142,Laki-laki,18,Jakarta,Akuntansi,3.37,3.13,80.7,80.0,67,68,Tidak,Tidak Aktif,5.9,Ya
+202100143,Mahasiswa_143,Laki-laki,19,Yogyakarta,Teknik Elektro,2.76,3.57,73.9,56.0,41,64,Tidak,Tidak Aktif,1.6,Ya
+202100144,Mahasiswa_144,Laki-laki,24,Medan,Teknik Informatika,2.08,2.02,56.0,51.0,74,72,Tidak,Tidak Aktif,5.6,Tidak
+202100145,Mahasiswa_145,Laki-laki,23,Yogyakarta,Teknik Informatika,3.75,1.53,92.7,96.0,76,88,Tidak,Aktif,8.3,Ya
+202100146,Mahasiswa_146,Laki-laki,22,Surabaya,Akuntansi,2.46,1.84,87.8,85.0,44,71,Tidak,Tidak Aktif,5.1,Ya
+202100147,Mahasiswa_147,Perempuan,23,Bandung,Akuntansi,2.86,3.75,79.5,71.0,40,88,Tidak,Tidak Aktif,1.5,Ya
+202100148,Mahasiswa_148,Laki-laki,19,Semarang,Sistem Informasi,3.77,3.68,91.0,54.0,79,74,Tidak,Tidak Aktif,8.1,Ya
+202100149,Mahasiswa_149,Laki-laki,19,Semarang,Teknik Elektro,3.06,2.99,92.0,55.0,51,83,Ya,Aktif,2.8,Ya
+202100150,Mahasiswa_150,Laki-laki,23,Surabaya,Teknik Elektro,1.79,3.0,,93.0,95,77,Tidak,Aktif,3.3,Ya
+202100151,Mahasiswa_151,Perempuan,18,Yogyakarta,Manajemen,3.85,3.16,90.2,61.0,75,65,Ya,Aktif,2.5,Ya
+202100152,Mahasiswa_152,Laki-laki,21,Jakarta,Sistem Informasi,3.07,1.94,81.8,67.0,84,50,Tidak,Tidak Aktif,4.0,Ya
+202100153,Mahasiswa_153,Laki-laki,19,Yogyakarta,Sistem Informasi,2.34,3.79,80.8,59.0,62,74,Tidak,Tidak Aktif,7.8,Ya
+202100154,Mahasiswa_154,Laki-laki,23,Surabaya,Sistem Informasi,1.85,2.55,77.1,72.0,86,47,Tidak,Aktif,5.7,Ya
+202100155,Mahasiswa_155,Perempuan,24,Semarang,Sistem Informasi,3.49,2.46,85.2,49.0,70,85,Tidak,Tidak Aktif,2.8,Ya
+202100156,Mahasiswa_156,Laki-laki,23,Yogyakarta,Teknik Elektro,3.05,2.8,49.5,79.0,50,53,Tidak,Tidak Aktif,8.9,Tidak
+202100157,Mahasiswa_157,Perempuan,20,Semarang,Teknik Elektro,2.83,1.62,92.9,71.0,49,49,Tidak,Tidak Aktif,8.9,Ya
+202100158,Mahasiswa_158,Perempuan,21,Jakarta,Sistem Informasi,3.73,1.92,92.3,89.0,42,41,Tidak,Tidak Aktif,8.8,Ya
+202100159,Mahasiswa_159,Laki-laki,22,Semarang,Manajemen,3.47,3.35,41.8,99.0,93,85,Ya,Tidak Aktif,3.1,Ya
+202100160,Mahasiswa_160,Perempuan,18,Semarang,Teknik Informatika,1.88,1.71,89.5,,53,48,Tidak,Tidak Aktif,5.1,Tidak
+202100161,Mahasiswa_161,Laki-laki,22,Bandung,Teknik Informatika,2.28,3.01,47.7,41.0,55,42,Ya,Aktif,9.9,Tidak
+202100162,Mahasiswa_162,Perempuan,21,Bandung,Manajemen,2.12,,60.1,72.0,49,60,Tidak,Tidak Aktif,7.9,Tidak
+202100163,Mahasiswa_163,Perempuan,21,Medan,Sistem Informasi,3.36,2.47,84.6,72.0,68,65,Tidak,Tidak Aktif,1.2,Ya
+202100164,Mahasiswa_164,Laki-laki,21,Bandung,Teknik Elektro,1.58,2.22,49.6,80.0,49,47,Tidak,Tidak Aktif,1.6,Tidak
+202100165,Mahasiswa_165,Laki-laki,22,Semarang,Teknik Informatika,2.92,2.39,89.1,,51,87,Tidak,Tidak Aktif,5.2,Ya
+202100166,Mahasiswa_166,Perempuan,24,Surabaya,Akuntansi,3.41,,89.9,69.0,69,41,Tidak,Tidak Aktif,,Ya
+202100167,Mahasiswa_167,Laki-laki,21,Semarang,Akuntansi,3.69,2.24,70.4,72.0,80,45,Ya,Aktif,,Ya
+202100168,Mahasiswa_168,Laki-laki,23,Surabaya,Manajemen,2.36,2.92,40.4,,40,67,Tidak,Tidak Aktif,5.5,Tidak
+202100169,Mahasiswa_169,Laki-laki,22,Surabaya,Sistem Informasi,3.55,2.69,57.2,91.0,44,92,Tidak,Aktif,1.9,Ya
+202100170,Mahasiswa_170,Perempuan,21,Bandung,Teknik Informatika,1.78,3.16,77.0,65.0,59,68,Tidak,Aktif,6.9,Ya
+202100171,Mahasiswa_171,Perempuan,23,Yogyakarta,Sistem Informasi,3.62,3.84,98.9,61.0,47,65,Tidak,Tidak Aktif,8.4,Ya
+202100172,Mahasiswa_172,Laki-laki,24,Jakarta,Teknik Informatika,1.82,3.33,77.9,78.0,82,64,Tidak,Tidak Aktif,4.4,Ya
+202100173,Mahasiswa_173,Laki-laki,20,Bandung,Manajemen,2.49,2.04,55.6,41.0,51,51,Ya,Aktif,8.0,Tidak
+202100174,Mahasiswa_174,Laki-laki,24,Bandung,Manajemen,3.49,1.58,78.0,77.0,40,44,Tidak,Tidak Aktif,9.7,Ya
+202100175,Mahasiswa_175,Perempuan,21,Yogyakarta,Akuntansi,1.87,2.16,72.4,,96,73,Tidak,Tidak Aktif,2.8,Ya
+202100176,Mahasiswa_176,Laki-laki,22,Jakarta,Sistem Informasi,2.07,2.99,86.8,65.0,93,87,Ya,Aktif,5.7,Ya
+202100177,Mahasiswa_177,Perempuan,19,Semarang,Akuntansi,3.31,,46.4,85.0,59,76,Tidak,Tidak Aktif,3.6,Ya
+202100178,Mahasiswa_178,Laki-laki,21,Medan,Sistem Informasi,3.3,,85.7,97.0,67,54,Ya,Tidak Aktif,8.1,Ya
+202100179,Mahasiswa_179,Perempuan,19,Medan,Akuntansi,3.1,2.99,72.5,89.0,96,83,Ya,Tidak Aktif,6.2,Ya
+202100180,Mahasiswa_180,Laki-laki,23,Semarang,Teknik Elektro,3.23,,97.8,54.0,82,75,Ya,Aktif,6.7,Ya
+202100181,Mahasiswa_181,Laki-laki,20,Bandung,Teknik Elektro,2.86,3.43,60.5,73.0,76,54,Tidak,Aktif,8.2,Ya
+202100182,Mahasiswa_182,Laki-laki,18,Jakarta,Teknik Elektro,2.13,1.77,78.0,81.0,86,82,Tidak,Tidak Aktif,,Ya
+202100183,Mahasiswa_183,Perempuan,24,Bandung,Teknik Elektro,2.36,1.69,95.9,94.0,76,87,Tidak,Tidak Aktif,9.2,Ya
+202100184,Mahasiswa_184,Perempuan,20,Surabaya,Teknik Informatika,1.95,3.32,46.2,83.0,51,62,Tidak,Aktif,5.8,Tidak
+202100185,Mahasiswa_185,Laki-laki,21,Bandung,Teknik Elektro,3.77,2.74,96.2,88.0,76,45,Tidak,Tidak Aktif,,Ya
+202100186,Mahasiswa_186,Perempuan,19,Bandung,Manajemen,2.96,3.22,81.3,,88,85,Tidak,Aktif,7.3,Ya
+202100187,Mahasiswa_187,Perempuan,24,Semarang,Manajemen,2.5,2.59,44.1,50.0,88,89,Tidak,Tidak Aktif,8.1,Tidak
+202100188,Mahasiswa_188,Perempuan,19,Semarang,Teknik Informatika,2.66,2.12,58.1,42.0,95,83,Ya,Aktif,,Tidak
+202100189,Mahasiswa_189,Laki-laki,22,Semarang,Teknik Elektro,3.87,3.55,82.5,98.0,83,98,Tidak,Tidak Aktif,8.7,Ya
+202100190,Mahasiswa_190,Laki-laki,19,Medan,Teknik Elektro,1.88,3.5,44.0,45.0,95,82,Ya,Aktif,9.2,Tidak
+202100191,Mahasiswa_191,Laki-laki,22,Surabaya,Teknik Elektro,2.97,3.24,74.9,,67,84,Tidak,Aktif,3.5,Ya
+202100192,Mahasiswa_192,Perempuan,23,Semarang,Akuntansi,2.76,2.18,60.8,45.0,86,60,Tidak,Aktif,9.9,Tidak
+202100193,Mahasiswa_193,Perempuan,24,Jakarta,Sistem Informasi,3.03,2.98,,48.0,54,62,Ya,Aktif,2.3,Ya
+202100194,Mahasiswa_194,Perempuan,24,Medan,Akuntansi,1.55,2.4,42.7,78.0,45,82,Ya,Tidak Aktif,,Tidak
+202100195,Mahasiswa_195,Laki-laki,18,Yogyakarta,Sistem Informasi,3.68,1.73,92.3,70.0,83,94,Tidak,Tidak Aktif,2.7,Ya
+202100196,Mahasiswa_196,Laki-laki,21,Jakarta,Teknik Elektro,3.83,3.79,98.4,71.0,98,55,Tidak,Aktif,9.0,Ya
+202100197,Mahasiswa_197,Perempuan,22,Jakarta,Teknik Elektro,2.91,1.84,98.1,,59,86,Ya,Tidak Aktif,6.9,Ya
+202100198,Mahasiswa_198,Perempuan,18,Semarang,Akuntansi,3.24,3.88,85.0,89.0,89,92,Tidak,Tidak Aktif,2.4,Ya
+202100199,Mahasiswa_199,Perempuan,19,Yogyakarta,Akuntansi,3.81,2.62,,51.0,53,99,Ya,Tidak Aktif,5.0,Ya
+202100200,Mahasiswa_200,Perempuan,19,Yogyakarta,Sistem Informasi,3.27,1.96,85.5,47.0,41,54,Tidak,Tidak Aktif,6.5,Ya
+202100059,Mahasiswa_59,Laki-laki,21,Yogyakarta,Manajemen,2.93,1.66,77.7,77.0,74,86,Ya,Tidak Aktif,,Ya
+202100041,Mahasiswa_41,Laki-laki,23,Medan,Teknik Elektro,2.31,3.16,87.4,,94,62,Tidak,Aktif,6.7,Ya
+202100035,Mahasiswa_35,Perempuan,20,Jakarta,Akuntansi,2.62,2.55,81.8,61.0,75,82,Tidak,Aktif,6.4,Ya
+202100103,Mahasiswa_103,Laki-laki,20,Jakarta,Teknik Informatika,1.84,2.96,95.7,59.0,84,87,Tidak,Aktif,9.7,Ya
+202100185,Mahasiswa_185,Laki-laki,21,Bandung,Teknik Elektro,3.77,2.74,96.2,88.0,76,45,Tidak,Tidak Aktif,,Ya
